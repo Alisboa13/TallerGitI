@@ -1,6 +1,6 @@
 # Introduccion a la Computacion
 
-**About**: this course is wack! No hacen aprender de forma dirvertida los aspectos de la carrera
+**About**: this course is wack! Nos hacen aprender de forma dirvertida los aspectos de la carrera
 
 **Professor**: [Garrido Ruth](../Profesores/RuthGarrido.md)
 
@@ -8,14 +8,14 @@
 
 | Bloque | Lunes | Martes | Miercoles | Jueves | Viernes | Sabado |
 | --- | --- | --- | --- | --- | --- | --- |
-| | 13 | | | | | |
-| | 13| | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | L2| | |
-| | | | | | L2| |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+| 1 | 13 | | | | | |
+| 2 | 13| | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | L2| | |
+| 7 | | | | | L2| |
+| 8 | | | | | | |
+| 9 | | | | | | |
+| 10 | | | | | | |
+| 11 | | | | | | |
