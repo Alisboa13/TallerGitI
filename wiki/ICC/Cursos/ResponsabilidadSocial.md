@@ -1,6 +1,6 @@
 # Responsabilidad Social
 
-**About**: this course is wack! Y nos hacen trabajar con la sociedad de forma responsable D;
+**About**: Tuve que enseñar Microsoft Word lmao
 
 **Professor**: [VILLAR FAUNDES CECILIA DEL CARMEN](../Profesores/CeciliaVillar.md)
 
