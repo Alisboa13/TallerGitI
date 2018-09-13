@@ -1,8 +1,8 @@
-# Responsabilidad Social
+# Voleibol
 
-**About**: this course is wack! Y nos hacen trabajar con la sociedad de forma responsable D;
+**About**: En este curso nos hacen trabajar en equipo.
 
-**Professor**: [VILLAR FAUNDES CECILIA DEL CARMEN](../Profesores/CeciliaVillar.md)
+**Professor**: [Hiram inzulza](../Profesores/CeciliaVillar.md)
 
 ## Horario
 
@@ -12,9 +12,9 @@
 | 2 | | | | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |
-| 5 | 11 | | | | | |
-| 6 | 11 | | | | | |
-| 7 | | | | | | |
+| 5 | | | | | | | |
+| 6 | | | | | | | |
+| 7 | gym | gym | | |
 | 8 | | | | | | |
 | 9 | | | | | | |
 | 10 | | | | | | |
